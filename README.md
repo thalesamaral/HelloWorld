@@ -1,3 +1,5 @@
 # HelloWorld!
  
- Primeiro repositório do cuurso de Git e GitHub
+ Primeiro repositório do curso de Git e GitHub
+ 
+ Corrigi uma palavra, pelo site.
